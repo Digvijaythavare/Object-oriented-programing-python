@@ -1,0 +1,10 @@
+import math
+print(math.ceil(3.1))
+print(math.ceil(2.1))
+print(math.ceil(6.1))
+print(math.ceil(4.6))
+print("------------------------------")
+print(math.floor(3.1))
+print(math.floor(2.1))
+print(math.floor(6.1))
+print(math.floor(4.6))
