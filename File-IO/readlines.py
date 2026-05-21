@@ -1,0 +1,5 @@
+f = open("hello.txt","r")
+#f.write("print('Hello World')\n")
+content = f.readlines()
+print(content)
+f.close()

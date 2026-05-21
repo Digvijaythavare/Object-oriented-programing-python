@@ -1,0 +1,5 @@
+f = open("hello.py","r")
+#f.write("print('Hello World')\n")
+f.read()
+print(f)
+f.close()
